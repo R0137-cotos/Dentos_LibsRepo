@@ -3,7 +3,7 @@
   "component": {
     "group": "jp.co.ricoh.cotos",
     "module": "dentos-common-libraries",
-    "version": "0.0.363",
+    "version": "0.0.364",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "dentos-common-libraries-0.0.363-plain.jar",
-          "url": "dentos-common-libraries-0.0.363-plain.jar",
-          "size": 1622699,
-          "sha512": "97655a75d2a380a5a86953e52ac5a9a533dbe8d540d8b0b306f4ac48d560b9c4ef986191c82b2e7d1059c0d325551058b26840e289d4325428d890bd1247bd53",
-          "sha256": "28b0b36ef1304ad41253c09077e3a1ca09c4c851001036cd3cda827deecd03f1",
-          "sha1": "8ec8e91c79021a94df880925fb2628d208a2fc3d",
-          "md5": "3dc4948ac0e5625b7751c9aa211a6292"
+          "name": "dentos-common-libraries-0.0.364-plain.jar",
+          "url": "dentos-common-libraries-0.0.364-plain.jar",
+          "size": 1622805,
+          "sha512": "534a323dc46f0ee319adbbe724a52f8f0a84d6d7f214d05a1fe484f15ad7bfa0870af568cb9c9d0d3c94346a0a3bc4cba5f8a24cbe5c5250abb144743009af14",
+          "sha256": "8158eb696b9c2653e77876c7956b2f11c7e7cdd1a260f0bd4c5260b070a8d15c",
+          "sha1": "f2a9ab3cd957be4ce2d112981b52415fc9ee31d1",
+          "md5": "e1ebbba9808f379782d04cbd272cb243"
         }
       ]
     },
@@ -244,13 +244,13 @@
       ],
       "files": [
         {
-          "name": "dentos-common-libraries-0.0.363-plain.jar",
-          "url": "dentos-common-libraries-0.0.363-plain.jar",
-          "size": 1622699,
-          "sha512": "97655a75d2a380a5a86953e52ac5a9a533dbe8d540d8b0b306f4ac48d560b9c4ef986191c82b2e7d1059c0d325551058b26840e289d4325428d890bd1247bd53",
-          "sha256": "28b0b36ef1304ad41253c09077e3a1ca09c4c851001036cd3cda827deecd03f1",
-          "sha1": "8ec8e91c79021a94df880925fb2628d208a2fc3d",
-          "md5": "3dc4948ac0e5625b7751c9aa211a6292"
+          "name": "dentos-common-libraries-0.0.364-plain.jar",
+          "url": "dentos-common-libraries-0.0.364-plain.jar",
+          "size": 1622805,
+          "sha512": "534a323dc46f0ee319adbbe724a52f8f0a84d6d7f214d05a1fe484f15ad7bfa0870af568cb9c9d0d3c94346a0a3bc4cba5f8a24cbe5c5250abb144743009af14",
+          "sha256": "8158eb696b9c2653e77876c7956b2f11c7e7cdd1a260f0bd4c5260b070a8d15c",
+          "sha1": "f2a9ab3cd957be4ce2d112981b52415fc9ee31d1",
+          "md5": "e1ebbba9808f379782d04cbd272cb243"
         }
       ]
     },
@@ -264,13 +264,13 @@
       },
       "files": [
         {
-          "name": "dentos-common-libraries-0.0.363-sources.jar",
-          "url": "dentos-common-libraries-0.0.363-sources.jar",
-          "size": 554453,
-          "sha512": "89800f3326c31cffd09f9c7d4c40fed41eeb41df78048883e394e250b70e1bcdcbf0a25908d694f757a5f8c4d14c7bf18daa8a7f95bcaa8950fc5a7bc1a1d614",
-          "sha256": "26ea6ce8ebf10b51792108986075a7c8d9628b57fb68ed7ecc068f2bc1d8f04d",
-          "sha1": "d3a4a3ecde214292bfe23f76e5e7762da8b05ee7",
-          "md5": "dab6aa7c4b5becd645a7be38e5567ea8"
+          "name": "dentos-common-libraries-0.0.364-sources.jar",
+          "url": "dentos-common-libraries-0.0.364-sources.jar",
+          "size": 554542,
+          "sha512": "b5c3aeb421d40ac718ea75bf2e17d04cfa5317df9a2a4d4adb7551a2d1d2e5725d6091e3150e399307e55efd1592b614840db653f305217bc3b2f551fc8e744a",
+          "sha256": "3d17eac975038980e9d066ccf2a98c04ff788125c37e059ca5eb828205c41e02",
+          "sha1": "06b68c0ba6972049f7dace64b2366aa287db90b6",
+          "md5": "0d575b148e1d9fc07362db7ec73d7158"
         }
       ]
     }

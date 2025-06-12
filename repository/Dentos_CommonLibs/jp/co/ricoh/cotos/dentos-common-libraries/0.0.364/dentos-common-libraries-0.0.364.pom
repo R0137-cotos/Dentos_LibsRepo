@@ -9,7 +9,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>jp.co.ricoh.cotos</groupId>
   <artifactId>dentos-common-libraries</artifactId>
-  <version>0.0.363</version>
+  <version>0.0.364</version>
   <packaging>pom</packaging>
   <dependencies>
     <dependency>
