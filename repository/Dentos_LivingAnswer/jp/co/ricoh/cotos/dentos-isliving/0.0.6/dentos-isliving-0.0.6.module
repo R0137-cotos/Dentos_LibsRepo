@@ -1,0 +1,96 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "jp.co.ricoh.cotos",
+    "module": "dentos-isliving",
+    "version": "0.0.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.12"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dentos-isliving-0.0.6-plain.jar",
+          "url": "dentos-isliving-0.0.6-plain.jar",
+          "size": 2688,
+          "sha512": "d35bedd9b3ca64f95f3ff791344590980d77f307cee2b631c7a7357f327b42072e81d377a73ca457f106612ea628b083cb31ec3f339618bc261a7f18f661037d",
+          "sha256": "de27ee996a63cd7b69c794efac8c2aafd253aa366cb168e70fc0dfd45a7b92be",
+          "sha1": "0cc274223c59ec8fc48313bd1068c36d9fe09ca1",
+          "md5": "c732304898302b60a479626c47909bf8"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web",
+          "version": {
+            "requires": "3.5.0"
+          }
+        },
+        {
+          "group": "jp.co.ricoh.cotos",
+          "module": "dentos-common-libraries",
+          "version": {
+            "requires": "0.0.370"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dentos-isliving-0.0.6-plain.jar",
+          "url": "dentos-isliving-0.0.6-plain.jar",
+          "size": 2688,
+          "sha512": "d35bedd9b3ca64f95f3ff791344590980d77f307cee2b631c7a7357f327b42072e81d377a73ca457f106612ea628b083cb31ec3f339618bc261a7f18f661037d",
+          "sha256": "de27ee996a63cd7b69c794efac8c2aafd253aa366cb168e70fc0dfd45a7b92be",
+          "sha1": "0cc274223c59ec8fc48313bd1068c36d9fe09ca1",
+          "md5": "c732304898302b60a479626c47909bf8"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dentos-isliving-0.0.6-sources.jar",
+          "url": "dentos-isliving-0.0.6-sources.jar",
+          "size": 2101,
+          "sha512": "a1c7a00a544d2a4ff3b09308d13bdacf80d439295ead870309043411e474cc773bf477147327d5989036ae48f234a090991deb4094d052cf9837310452bbf183",
+          "sha256": "6b0558320a888eabe19276f8c62e57e3241687087e2b4eac68e8ce72915aafd9",
+          "sha1": "9bbf548be3215b1098a455cd2f3a5ef6ee9b5f9c",
+          "md5": "b5fc8fa1647e32d7ee0929dae784ae7b"
+        }
+      ]
+    }
+  ]
+}
