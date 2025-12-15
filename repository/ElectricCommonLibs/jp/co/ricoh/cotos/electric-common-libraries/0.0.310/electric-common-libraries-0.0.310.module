@@ -28,10 +28,10 @@
           "name": "electric-common-libraries-0.0.310-plain.jar",
           "url": "electric-common-libraries-0.0.310-plain.jar",
           "size": 828443,
-          "sha512": "e37c8a054c94d3e06321bb9f885c752e4c6532f1ac44640d4a2f64d453b8ae107df6d2b15d91ee1ab8618c2cdda0ff1d05c5cba3e0bd8a5a0a9ecdeb6e63e1b6",
-          "sha256": "235ca28ae4d4e21a4e3584a81b2349cc86928eb393fca0162ac53a5c8c1bb313",
-          "sha1": "3ee3651f39f231f5d59df36cb64c07918aef79da",
-          "md5": "8303717f1ce4201cb0ecbefc1a7b5770"
+          "sha512": "f7a23b20bb948da8a339e04ca26ad4131bc2a7665093fc104429a851baed6e700220176fd7b36089180490b4246ac868a7dd3fa1bb95cf77947b5f922a0ce4f7",
+          "sha256": "67464c80ce473869febf25f368a69e3fe1f1687c8141ad8a8ff6249956a9dbea",
+          "sha1": "d4e33e7c251a56a5677d2580b59ffc89e642b52c",
+          "md5": "38f01903c1d188efe40649629c42104a"
         }
       ]
     },
@@ -233,10 +233,10 @@
           "name": "electric-common-libraries-0.0.310-plain.jar",
           "url": "electric-common-libraries-0.0.310-plain.jar",
           "size": 828443,
-          "sha512": "e37c8a054c94d3e06321bb9f885c752e4c6532f1ac44640d4a2f64d453b8ae107df6d2b15d91ee1ab8618c2cdda0ff1d05c5cba3e0bd8a5a0a9ecdeb6e63e1b6",
-          "sha256": "235ca28ae4d4e21a4e3584a81b2349cc86928eb393fca0162ac53a5c8c1bb313",
-          "sha1": "3ee3651f39f231f5d59df36cb64c07918aef79da",
-          "md5": "8303717f1ce4201cb0ecbefc1a7b5770"
+          "sha512": "f7a23b20bb948da8a339e04ca26ad4131bc2a7665093fc104429a851baed6e700220176fd7b36089180490b4246ac868a7dd3fa1bb95cf77947b5f922a0ce4f7",
+          "sha256": "67464c80ce473869febf25f368a69e3fe1f1687c8141ad8a8ff6249956a9dbea",
+          "sha1": "d4e33e7c251a56a5677d2580b59ffc89e642b52c",
+          "md5": "38f01903c1d188efe40649629c42104a"
         }
       ]
     },
@@ -253,10 +253,10 @@
           "name": "electric-common-libraries-0.0.310-sources.jar",
           "url": "electric-common-libraries-0.0.310-sources.jar",
           "size": 282168,
-          "sha512": "1c2f3f2f593c2aa28ff2707aae0e8b30079fc065f80ed9e58919ed49bae7130a91335c8a475a5891c82231c5062492e6f5085ba301704918b45d0b486fab6cfc",
-          "sha256": "05b1d07388ec0c8fdebdec22d7db1540d09af07e6d679f68276423289820b03b",
-          "sha1": "f761f4fa7f6a48676133ce2d91f6ada91f99712f",
-          "md5": "291ec106821e46a843e0df838f1d6662"
+          "sha512": "6f22d4d6f92136bfec2c79513bee0658046b0d1f6c488d99f2a6053efc8814b273c3c54c2fa74e25a3e499c8e13be5f96c09de8581a3ec06313ae39cb2ff882f",
+          "sha256": "b4a64b6e3014177e053d0ead027da947599342769ec027cc802d2c672a0ac488",
+          "sha1": "c3c2762d662aa6e45326fbd8a583ec548ec4e7a7",
+          "md5": "c413a27184f7928ac3dde9159fd40350"
         }
       ]
     }
