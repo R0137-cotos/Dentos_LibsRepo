@@ -28,10 +28,10 @@
           "name": "dentos-common-libraries-0.0.370-plain.jar",
           "url": "dentos-common-libraries-0.0.370-plain.jar",
           "size": 1621972,
-          "sha512": "fa13d1b46162d21ef167fe31b3aa46cc2f7a570313ab2f57bc9c0b486a1ac0a7785c829e15443b1f18491c3720a3317a35419ad9ed9deb34f700056cabead749",
-          "sha256": "34ec214414ff1053a2977be1bf338c79c9a03469b775ed018643cc5622286308",
-          "sha1": "d877cc99dd6e874d7838e849f3dd10d37429033d",
-          "md5": "ed65857eec87490dc09a8c8337b3ce64"
+          "sha512": "a1b33da45f5a73b454595e8cb30596e7a190ead5125fd6c3bc3bec3753fee2f8fd38aff0d9c90cd7333439c1fbec83a1c1f21cac7e9be93bd778fffef1d98753",
+          "sha256": "50d4722afaf69777e18c5932550589bfdbfbf2a8377779373d66a9c7ceda87fb",
+          "sha1": "0cfeffe0517333259823913b51b0e76d5897ad1b",
+          "md5": "800e8b715856dfb2c14389ff3b79cb95"
         }
       ]
     },
@@ -254,10 +254,10 @@
           "name": "dentos-common-libraries-0.0.370-plain.jar",
           "url": "dentos-common-libraries-0.0.370-plain.jar",
           "size": 1621972,
-          "sha512": "fa13d1b46162d21ef167fe31b3aa46cc2f7a570313ab2f57bc9c0b486a1ac0a7785c829e15443b1f18491c3720a3317a35419ad9ed9deb34f700056cabead749",
-          "sha256": "34ec214414ff1053a2977be1bf338c79c9a03469b775ed018643cc5622286308",
-          "sha1": "d877cc99dd6e874d7838e849f3dd10d37429033d",
-          "md5": "ed65857eec87490dc09a8c8337b3ce64"
+          "sha512": "a1b33da45f5a73b454595e8cb30596e7a190ead5125fd6c3bc3bec3753fee2f8fd38aff0d9c90cd7333439c1fbec83a1c1f21cac7e9be93bd778fffef1d98753",
+          "sha256": "50d4722afaf69777e18c5932550589bfdbfbf2a8377779373d66a9c7ceda87fb",
+          "sha1": "0cfeffe0517333259823913b51b0e76d5897ad1b",
+          "md5": "800e8b715856dfb2c14389ff3b79cb95"
         }
       ]
     },
@@ -274,10 +274,10 @@
           "name": "dentos-common-libraries-0.0.370-sources.jar",
           "url": "dentos-common-libraries-0.0.370-sources.jar",
           "size": 555465,
-          "sha512": "31cde6ffc14b03501e65bdb6a4b2b07075547c5ac6a5be08e0bb821eb22edfd0d72cc8bf33f8f24599aa80da33a89304914bb913e2f3c4810f282c9595079925",
-          "sha256": "8156435aacc85fc2ca1d40b7863a7517664838b56ad50a53cdd85af780d6b0b7",
-          "sha1": "beb56b2f3a40b28cb5d0088169ec5088d70b8d23",
-          "md5": "c69a98fd2cad77796fa9774a2dbc8102"
+          "sha512": "66fea04055bfaa3e0fa23cddc9f0b87d2c08d11d0862acac7293caf1c311015bf6c73b9d59ed080b8d5a19e96f152a9d001a5eda0966ae90bedd3ea5e427e109",
+          "sha256": "9acf6e80e138065ef23060abeda38cfbfb1446c8e30f61ebbd89b231c5f5a405",
+          "sha1": "9f3729316b76a9ef3fbbd8dd2ff80e9ea267d2e5",
+          "md5": "943cc0cd117f6d45ae6ead4df406a7f0"
         }
       ]
     }
