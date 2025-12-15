@@ -28,10 +28,10 @@
           "name": "dentos-isliving-0.0.6-plain.jar",
           "url": "dentos-isliving-0.0.6-plain.jar",
           "size": 2688,
-          "sha512": "d35bedd9b3ca64f95f3ff791344590980d77f307cee2b631c7a7357f327b42072e81d377a73ca457f106612ea628b083cb31ec3f339618bc261a7f18f661037d",
-          "sha256": "de27ee996a63cd7b69c794efac8c2aafd253aa366cb168e70fc0dfd45a7b92be",
-          "sha1": "0cc274223c59ec8fc48313bd1068c36d9fe09ca1",
-          "md5": "c732304898302b60a479626c47909bf8"
+          "sha512": "25705d3d130339d62a09d266c183621861cf7abdc8f53c945950d815560a1d9c60a4ceef84d4be28da1c86abf2ece1b16ccf390c4ff73f11948d9aec00e0e577",
+          "sha256": "6bb6f3086e57d75550e313976cfec899794a37cdf9f1e0df3c334c3d3ddd285d",
+          "sha1": "6f1398ac303b42273c2c4bf78ed375706c4fa9ea",
+          "md5": "1b4feea862009091768a83670111be9b"
         }
       ]
     },
@@ -65,10 +65,10 @@
           "name": "dentos-isliving-0.0.6-plain.jar",
           "url": "dentos-isliving-0.0.6-plain.jar",
           "size": 2688,
-          "sha512": "d35bedd9b3ca64f95f3ff791344590980d77f307cee2b631c7a7357f327b42072e81d377a73ca457f106612ea628b083cb31ec3f339618bc261a7f18f661037d",
-          "sha256": "de27ee996a63cd7b69c794efac8c2aafd253aa366cb168e70fc0dfd45a7b92be",
-          "sha1": "0cc274223c59ec8fc48313bd1068c36d9fe09ca1",
-          "md5": "c732304898302b60a479626c47909bf8"
+          "sha512": "25705d3d130339d62a09d266c183621861cf7abdc8f53c945950d815560a1d9c60a4ceef84d4be28da1c86abf2ece1b16ccf390c4ff73f11948d9aec00e0e577",
+          "sha256": "6bb6f3086e57d75550e313976cfec899794a37cdf9f1e0df3c334c3d3ddd285d",
+          "sha1": "6f1398ac303b42273c2c4bf78ed375706c4fa9ea",
+          "md5": "1b4feea862009091768a83670111be9b"
         }
       ]
     },
@@ -85,10 +85,10 @@
           "name": "dentos-isliving-0.0.6-sources.jar",
           "url": "dentos-isliving-0.0.6-sources.jar",
           "size": 2101,
-          "sha512": "a1c7a00a544d2a4ff3b09308d13bdacf80d439295ead870309043411e474cc773bf477147327d5989036ae48f234a090991deb4094d052cf9837310452bbf183",
-          "sha256": "6b0558320a888eabe19276f8c62e57e3241687087e2b4eac68e8ce72915aafd9",
-          "sha1": "9bbf548be3215b1098a455cd2f3a5ef6ee9b5f9c",
-          "md5": "b5fc8fa1647e32d7ee0929dae784ae7b"
+          "sha512": "53b2a6780c631629383ea59212c6bd4686f341efa64007c67cf7929a9b4285d12c7744ec5d38f7bb2d1a93e24b07ed0dafd2eec8b896abb9bcdcfdd28b9b35fd",
+          "sha256": "aa9b82b2af7a44daabbbceb04a70fb03f2de5794ef81311604c77ab1c2745512",
+          "sha1": "9ca86602215480f74b24f4df94f3cf29c6bdea31",
+          "md5": "665abd65336a942f2bde453ff09a7fc4"
         }
       ]
     }
