@@ -3,11 +3,11 @@
   <groupId>jp.co.ricoh.cotos</groupId>
   <artifactId>dentos-common-libraries</artifactId>
   <versioning>
-    <latest>0.0.371</latest>
-    <release>0.0.371</release>
+    <latest>0.0.372</latest>
+    <release>0.0.372</release>
     <versions>
-      <version>0.0.371</version>
+      <version>0.0.372</version>
     </versions>
-    <lastUpdated>20251023005847</lastUpdated>
+    <lastUpdated>20260114075210</lastUpdated>
   </versioning>
 </metadata>
